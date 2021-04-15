@@ -1,0 +1,115 @@
+[{
+    "name": "B ready",
+    "type": "scooter",
+    "puissance":"3000",
+    "prix":"3500" 
+},
+{
+    "name": "Tilgreen",
+    "type": "scooter",
+    "puissance":"3000",
+    "prix":"3890" 
+},
+{
+    "name": "B cool",
+    "type": "scooter",
+    "puissance":"3000",
+    "prix":"2800" 
+},
+{
+    "name": "Super Soco ts",
+    "type": "scooter",
+    "puissance":"3000",
+    "prix":"" 
+},
+{
+    "name": "Super Soco Tc Max Pro",
+    "type": "scooter",
+    "puissance":"3000",
+    "prix":"4290" 
+},
+{
+    "name": "Super Soco Tc Max",
+    "type": "scooter",
+    "puissance":"3000",
+    "prix":"4990" 
+},
+{
+    "name": "Super Soco tc",
+    "type": "scooter",
+    "puissance":"3000",
+    "prix":"3490" 
+},
+{
+    "name": "Super Soco CU-X",
+    "type": "scooter",
+    "puissance":"3000",
+    "prix":"3190" 
+},
+{
+    "name": "Super Soco CPX",
+    "type": "scooter",
+    "puissance":"3000",
+    "prix":"4290" 
+},
+{
+    "name": "S01",
+    "type": "scooter",
+    "puissance":"3000",
+    "prix":"7390" 
+},
+{
+    "name": "Rider Pro Cargo 125",
+    "type": "scooter",
+    "puissance":"3000",
+    "prix":"4990" 
+},
+{
+    "name": "Rider NG",
+    "type": "scooter",
+    "puissance":"3000",
+    "prix":"9490" 
+},
+{
+    "name": "Rider 125",
+    "type": "scooter",
+    "puissance":"3000",
+    "prix":"4999" 
+},
+{
+    "name": "Pink Mobility Pink Me",
+    "type": "scooter",
+    "puissance":"3000",
+    "prix":"2200" 
+},
+{
+    "name": "Nqi N-PRO",
+    "type": "scooter",
+    "puissance":"3000",
+    "prix":"4599" 
+},
+{
+    "name": "Nqi GTS_PRO",
+    "type": "scooter",
+    "puissance":"3000",
+    "prix":"3599" 
+},
+{
+    "name": "NQI+",
+    "type": "scooter",
+    "puissance":"3000",
+    "prix":"3000" 
+},
+{
+    "name": "NIU PRO",
+    "type": "scooter",
+    "puissance":"3000",
+    "prix":"2300" 
+},
+{
+    "name": "3Rs",
+    "type": "scooter",
+    "puissance":"3000",
+    "prix":"6749" 
+}
+]
