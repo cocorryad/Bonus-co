@@ -146,8 +146,21 @@ app.get('/resultat/', (req,res)=>{
   
 })
 
-app.get('/', (req,res)=>{
+app.get('/', async(req,res)=>{
+  const mt = new moto({
+  puissance: "1400",
+  prix: "2699",
+  type: "scooter",
+  name: "NQI+",
 
+  });
+  try { 
+    const saved=await mt.save();
+    
+  } catch (error) {
+    res.send(err);
+    
+  }
   moto.find({}, (err,motos)=>{
     console.log(motos);
     res.render('index',{
