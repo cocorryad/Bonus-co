@@ -147,7 +147,7 @@ app.get('/resultat/', (req,res)=>{
 })
 
 app.get('/', async(req,res)=>{
-  const mt = new moto({
+ /* const mt = new moto({
   puissance: "1400",
   prix: "2699",
   type: "scooter",
@@ -160,7 +160,7 @@ app.get('/', async(req,res)=>{
   } catch (error) {
     res.send(err);
     
-  }
+  }*/
   moto.find({}, (err,motos)=>{
     console.log(motos);
     res.render('index',{
