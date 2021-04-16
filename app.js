@@ -112,7 +112,7 @@ app.use(express.urlencoded({
 const MongoClient = require('mongodb').MongoClient;
 //const { request } = require('node:http');
 
-const uri = "mongodb://127.0.0.1:27017/hellowheels";
+const uri = "mongodb+srv://electriklab:gradiant@cluster0.nalxx.mongodb.net/hellowheels";
 const client = new MongoClient(uri, { useNewUrlParser: true, useUnifiedTopology: true });
 client.connect(err => {
   const collection = client.db("test").collection("devices");
